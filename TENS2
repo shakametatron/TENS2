@@ -1,1 +1,53 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE" tvg-logo="http://data.blackplaytv.com/stm/c/img/dr_house.png" group-title="24/7",DR. HOUSE
+http://bptv.club:8080/1608/1608rj/6394
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="http://data.blackplaytv.com/stm/c/img/los_simpsons.png" group-title="24/7",LOS SIMPSONS
+http://bptv.club:8080/1608/1608rj/6430
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 1" tvg-logo="http://data.blackplaytv.com/stm/c/img/dragon_ball.png" group-title="24/7",DRAGON BALL 1
+http://bptv.club:8080/1608/1608rj/405
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 2" tvg-logo="http://data.blackplaytv.com/stm/c/img/dragon_ball.png" group-title="24/7",DRAGON BALL 2
+http://bptv.club:8080/1608/1608rj/6630
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="http://data.blackplaytv.com/stm/c/img/dragon_ball_super.png" group-title="24/7",DRAGON BALL SUPER
+http://bptv.club:8080/1608/1608rj/6607
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://data.blackplaytv.com/stm/c/img/dragon_ball_z.png" group-title="24/7",DRAGON BALL Z
+http://bptv.club:8080/1608/1608rj/388
+#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL ZODIACO 1" tvg-logo="http://data.blackplaytv.com/stm/c/img/caballeros_del_zodiaco.png" group-title="24/7",CABALLEROS DEL ZODIACO 1
+http://bptv.club:8080/1608/1608rj/140
+#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL ZODIACO 2" tvg-logo="http://data.blackplaytv.com/stm/c/img/caballeros_del_zodiaco.png" group-title="24/7",CABALLEROS DEL ZODIACO 2
+http://bptv.club:8080/1608/1608rj/6616
+#EXTINF:-1 tvg-id="" tvg-name="RANMA 1/2" tvg-logo="http://data.blackplaytv.com/stm/c/img/ranma.png" group-title="24/7",RANMA 1/2
+http://bptv.club:8080/1608/1608rj/6640
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8" tvg-logo="http://data.blackplaytv.com/stm/c/img/el_chavo_del_8.png" group-title="24/7",EL CHAVO DEL 8
+http://bptv.club:8080/1608/1608rj/413
+#EXTINF:-1 tvg-id="" tvg-name="TOM Y JERRY" tvg-logo="http://data.blackplaytv.com/stm/c/img/tom_y_jerry.png" group-title="24/7",TOM Y JERRY
+http://bptv.club:8080/1608/1608rj/6513
+#EXTINF:-1 tvg-id="" tvg-name="Cantiflas" tvg-logo="" group-title="24/7",Cantiflas
+http://bptv.club:8080/1608/1608rj/6553
+#EXTINF:-1 tvg-id="" tvg-name="Películas infantiles" tvg-logo="http://data.blackplaytv.com/stm/c/img/" group-title="24/7",Películas infantiles
+http://bptv.club:8080/1608/1608rj/6578
+#EXTINF:-1 tvg-id="" tvg-name="Películas de animación" tvg-logo="" group-title="24/7",Películas de animación
+http://bptv.club:8080/1608/1608rj/6579
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball (M)" tvg-logo="" group-title="24/7",Dragon Ball (M)
+http://bptv.club:8080/1608/1608rj/6602
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball GT (M)" tvg-logo="" group-title="24/7",Dragon ball GT (M)
+http://bptv.club:8080/1608/1608rj/6603
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN" tvg-logo="http://data.blackplaytv.com/stm/c/img/batman.png" group-title="24/7",BATMAN
+http://bptv.club:8080/1608/1608rj/6605
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://data.blackplaytv.com/stm/c/img/pokemon.png" group-title="24/7",POKEMON
+http://bptv.club:8080/1608/1608rj/6606
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo (p)(1080)" tvg-logo="" group-title="24/7",Scooby-Doo (p)(1080)
+http://bptv.club:8080/1608/1608rj/6611
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="" group-title="24/7",Los Picapiedra
+http://bptv.club:8080/1608/1608rj/6614
+#EXTINF:-1 tvg-id="" tvg-name="|  Tom y Jerry" tvg-logo="" group-title="24/7",|  Tom y Jerry
+http://bptv.club:8080/1608/1608rj/6617
+#EXTINF:-1 tvg-id="" tvg-name="Garfield" tvg-logo="" group-title="24/7",Garfield
+http://bptv.club:8080/1608/1608rj/6625
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="" group-title="24/7",BOB ESPONJA
+http://bptv.club:8080/1608/1608rj/6627
+#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="" group-title="24/7",LA PANTERA ROSA
+http://bptv.club:8080/1608/1608rj/6622
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="" group-title="24/7",HEMAN
+http://bptv.club:8080/1608/1608rj/6650
+#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOOM" tvg-logo="" group-title="24/7",SAILOR MOOM
+http://bptv.club:8080/1608/1608rj/6665
